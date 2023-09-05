@@ -1,0 +1,71 @@
+html
+{
+    background-image: url('img/gg.jpg');
+    background-size: cover;
+}
+.homewelcome
+{
+    text-align: center ;
+}
+.topnav{
+    color: antiquewhite;
+    text-align: right;
+    font-size: large;
+    background-color: rgb(224, 216, 220);
+    width: 100%;
+    height: 100%;
+    border: 20ch;
+    box-shadow: inset;
+}
+.it
+{float: left;}
+.form1 
+{
+float: right;
+}
+.news
+{
+    text-align: center;
+    text-decoration: underline;
+}
+.form2
+{
+ float: center;
+}
+.form3
+{
+    float: left;
+}
+.img
+{
+    background-color: aliceblue;
+    size: 100ch;
+}
+h1
+{
+    text-align: center;
+    border-radius: 5ch;
+}
+.html1
+{
+    background-color: aquamarine;
+}
+.foot
+{
+    text-align: center;
+}
+div
+{
+    border-radius: 10cm;
+}
+log
+{
+background-color: antiquewhite;
+}
+.submit{
+    text-align: center;
+}
+.Regaister
+{
+    text-align:center ;
+}
